@@ -1,2 +1,18 @@
 - name: Introduction
   href: intro.md
+- name: ASP.Net Web
+  href: ASPNetWeb.md
+  items:
+  - name: ASP.net MVC
+    href: ASPNetMVC.md
+  - name: ASP.net MVC API
+    href: ASPNetWebApi.md
+  - name: ASP.net Core
+    href: ASPNetCore.md
+- name: Azure Cloud
+  href: CloudPractice.md    
+  items:
+  - name: Azure IAAS
+    href: CloudIAAS.md
+  - name: Azure PAAS
+    href: CloudPAAS.md
